@@ -106,6 +106,6 @@
 </p>
 <hr/>
 
-
-C:\Program Files\MongoDB\Server\6.0\data
+### 👉 🔥
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
