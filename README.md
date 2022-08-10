@@ -3,7 +3,7 @@
       <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Mern+Stack+Developer;DSA%20|%20REACT%20|%20JAVA%20Enthusiast;Web%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
     </p>
    <hr/>
-<h4 align="center">I am a freshers,pursuing B.Tech in CSE. I like to Code, Design. I am an enthusiastic who loves to take up new challenges and learn new skills. I love spreading knowledge and positivity.</h4>
+<h4 align="center">I am a fresher,pursuing B.Tech in CSE. I like to Code, Design. I am an enthusiastic who loves to take up new challenges and learn new skills. I love spreading knowledge and positivity.</h4>
 <br>
     
    <p align="center"> <img src="https://gpvc.arturio.dev/99monisha?username=99monisha8&label=Profile%20views&color=0e75b6&style=plastic" alt="99monisha" /> </p>
