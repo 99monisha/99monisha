@@ -82,7 +82,7 @@
 <summary><b>💻 GitHub Profile Stats</b></summary>
  
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Monisha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=99monisha&show_icons=true&count_private=true&theme=blueberry" height="190px"/></a>
+    <a href="#"><img alt="Monisha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=99monisha&show_icons=true&count_private=true&theme=blueberry" height="190px"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99monisha&langs_count=10&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="99monisha" height="190px"/>
 <br/>
