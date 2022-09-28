@@ -3,11 +3,8 @@
       <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Mern+Stack+Developer;DSA%20|%20REACT%20|%20JAVA%20Enthusiast;Web%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
     </p>
    <hr/>
-<h4 align="center">I am Monisha, a Computer Science and Engineering student who is passionate about coding.
-I completed my diploma in Computer Science and Technology in the year 2020, now I'm pursuing B.Tech.
-
-I am proficient in frontend web development, currently working on React framework. 
-I have good knowledge in full stack web development too, currently working on MERN stack.
+<h4 align="center">I am Monisha, a Computer Science and Engineering student who is passionate about coding.I completed my diploma in Computer Science and Technology in the year 2020, now I'm pursuing B.Tech.I am proficient in frontend web development, currently working on React framework. 
+	I have good knowledge in full stack web development too, currently working on MERN stack.
 
 I'll be graduating in July, 2023. I'm actively searching for any kind of internship or full time Web Development role in any MNC or Startup, where I can effectively contribute my skills and knowledge to gain experience.</h4>
 <br>
